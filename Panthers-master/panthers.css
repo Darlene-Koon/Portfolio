@@ -1,0 +1,27 @@
+title{
+ text-align: scroll right to left;
+}
+
+body{
+	background-image: url("https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10547694_10205450319400234_5283038509851808233_n.jpg?oh=a2dcac12eee504ad12f0e5d4b29dd97a&oe=565671A3");
+	color: #fff;
+}
+ 
+ li{
+ 	font-size: 30px; text-align: center;
+ }
+
+.jumbotron .container {
+	text-align: center;
+
+}
+ h1{
+  text-align: center;
+ }
+
+ 
+
+
+ h2{
+ 	text-align: center;
+ }
